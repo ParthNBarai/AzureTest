@@ -1,8 +1,3 @@
-# Node.js
-- task: BrowserStackResults@1
-  inputs:
-    versionSpec: '18.12.0'
-    browserstackProduct: 'automate'
 # Build a general Node.js project with npm.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
